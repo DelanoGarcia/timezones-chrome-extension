@@ -1,0 +1,11 @@
+{
+    "name": "LS Timezones",
+    "version": "1.0.1",
+    "manifest_version": 3,
+    "description": "Extension that shows different timezones",
+    "author": "delanogarciaillera@gmail.com",
+    "action": {
+        "default_icon": "img/timezones_icon.png",
+        "default_popup": "index.html"
+    }
+}
